@@ -1,5 +1,5 @@
 # Spamploy-ee 1.0
-"Spamploy-ee, Manage Your Workspace with eases." A fun lil Spamton Shimeji-ee for your desktop!
+"Spamploy-ee, Manage Your Workspace with eases."
 
 After many nights of rendering and tweaking code, he's finally complete in a state that people can use it **without** issues.. _hopefully._ 
 
