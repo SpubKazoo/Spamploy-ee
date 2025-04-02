@@ -3,7 +3,7 @@
 
 After many nights of rendering and tweaking code, he's finally complete in a state that people can use it **without** issues.. _hopefully._ 
 
-![Image](https://github.com/user-attachments/assets/85d8079d-e7bb-46af-ac6c-c8290c4414e9)
+![Image](https://github.com/user-attachments/assets/1407c820-1f8c-44b2-81f2-2df6da9a344c)
 
 - **How-To-Install?**
 
